@@ -18,3 +18,5 @@ puts "mario"
 puts 'toadstool'
 puts "link"
 end
+
+all_phrases
