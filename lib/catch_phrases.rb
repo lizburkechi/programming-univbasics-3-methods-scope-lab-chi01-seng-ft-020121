@@ -14,9 +14,7 @@ def link
 end
 
 def all_phrases
-puts "mario"
-puts 'toadstool'
-puts "link"
+puts mario + toadstool + link
 end
 
 all_phrases
